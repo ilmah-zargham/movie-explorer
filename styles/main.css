@@ -29,7 +29,7 @@ html.light {
   --bg:#ffffff;
   --fg:#111111;
   --card:#f5f5f7;
-  --muted:#555b63;
+  --muted:#c9c9c9;
   --acc:#375ff3;
 
   --input-bg:#ffffff;
@@ -197,4 +197,5 @@ dialog {
 }
 #modal-body {
   padding:1rem;
+
 }
